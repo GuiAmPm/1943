@@ -20,7 +20,7 @@ The game library was updated to run on 64-bits environments and translated from 
 - Difficulty progression
 - No sound, so you can listen to your own Spotify playlist (or MP3 player back in 2010)
 - Two players mode
-- Score that is not in anyway saved so you don't regret past mistakes
+- Score that is not saved in anyway saved so you don't regret past mistakes
 - Wireframe mode
 
 ![Game image](img/img2.png)
